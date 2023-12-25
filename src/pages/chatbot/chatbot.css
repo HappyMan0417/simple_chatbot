@@ -1,0 +1,13 @@
+#qa_box {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(155, 155, 155, 0.5) transparent;
+}
+
+#qa_box::-webkit-scrollbar {
+  width: 8px;
+}
+
+#qa_box::-webkit-scrollbar-thumb {
+  background: rgba(155, 155, 155, 0.5);
+  border-radius: 20px;
+}

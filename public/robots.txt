@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /api/
+Allow: /
+Sitemap: https://medicalcodingbot.com/api/sitemap/sitemap.xml
